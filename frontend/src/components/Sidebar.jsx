@@ -12,10 +12,7 @@ export default function Sidebar() {
     <nav className="sidebar">
       <div className="brand">
         <div className="brand-mark">
-          <svg width="26" height="26" viewBox="0 0 26 26" fill="none">
-            <rect x="1" y="1" width="24" height="24" rx="2" stroke="#e8a33d" strokeWidth="1.4" />
-            <path d="M1 9H25M9 9V25M17 9V25" stroke="#e8a33d" strokeWidth="1.4" />
-          </svg>
+          
           <div>
             <div className="brand-name">WMS TEST</div>
             
