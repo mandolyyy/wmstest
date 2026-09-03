@@ -1,0 +1,5 @@
+node_modules/
+dist/
+db/wms.db
+db/wms.db-*
+*.log
